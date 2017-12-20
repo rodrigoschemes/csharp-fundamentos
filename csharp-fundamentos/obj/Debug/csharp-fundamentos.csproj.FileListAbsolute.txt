@@ -1,0 +1,34 @@
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp-fundamentos.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp_fundamentos.Desafios.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp_fundamentos.CaixaEletronico.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp_fundamentos.CalculoImposto.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp_fundamentos.HelloWorld.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp-fundamentos.csproj.GenerateResource.Cache
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp-fundamentos.csproj.CoreCompileInputs.cache
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp_fundamentos.Formulario.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\bin\Debug\csharp-fundamentos.exe.config
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\bin\Debug\csharp-fundamentos.exe
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\bin\Debug\csharp-fundamentos.pdb
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp_fundamentos.Properties.Resources.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp-fundamentos.exe
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp-fundamentos.pdb
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp_fundamentos.TesteAtualizadorDeContas.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp_fundamentos.Arrays.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\bin\Debug\csharp-fundamentos.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\bin\Debug\csharp-fundamentos.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\bin\Debug\csharp-fundamentos.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp-fundamentos.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.Arrays.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.Combo.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.Desafios.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.CaixaEletronico.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.CalculoImposto.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.Formulario.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.HelloWorld.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.TesteAtualizadorDeContas.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp-fundamentos.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp-fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp-fundamentos.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp-fundamentos.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\csharp-fundamentos\csharp-fundamentos\obj\Debug\csharp_fundamentos.TesteTributos.resources

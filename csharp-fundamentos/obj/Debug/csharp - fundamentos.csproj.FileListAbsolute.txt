@@ -1,0 +1,13 @@
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\bin\Debug\csharp - fundamentos.exe.config
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\bin\Debug\csharp - fundamentos.exe
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\bin\Debug\csharp - fundamentos.pdb
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp - fundamentos.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp___fundamentos.Properties.Resources.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp - fundamentos.csproj.GenerateResource.Cache
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp - fundamentos.csproj.CoreCompileInputs.cache
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp - fundamentos.exe
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp - fundamentos.pdb
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp___fundamentos.CaixaEletronico.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp___fundamentos.HelloWorld.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp___fundamentos.CalculoImposto.resources
+c:\users\rodrigo\documents\visual studio 2017\Projects\csharp - fundamentos\csharp - fundamentos\obj\Debug\csharp___fundamentos.Desafios.resources

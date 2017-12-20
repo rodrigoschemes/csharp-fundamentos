@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9317FE87-90A0-408F-82B5-69F46D0030D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>csharp_fundamentos</RootNamespace>
+    <AssemblyName>csharp-fundamentos</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>csharp_fundamentos.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Arrays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arrays.Designer.cs">
+      <DependentUpon>Arrays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AtualizadorDeContas.cs" />
+    <Compile Include="Banco.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="Combo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combo.Designer.cs">
+      <DependentUpon>Combo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conta.cs" />
+    <Compile Include="ContaCorrente.cs" />
+    <Compile Include="ContaPoupanca.cs" />
+    <Compile Include="Desafios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desafios.Designer.cs">
+      <DependentUpon>Desafios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CaixaEletronico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CaixaEletronico.Designer.cs">
+      <DependentUpon>CaixaEletronico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalculoImposto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalculoImposto.Designer.cs">
+      <DependentUpon>CalculoImposto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario.Designer.cs">
+      <DependentUpon>Formulario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GerenciadorDeImposto.cs" />
+    <Compile Include="HelloWorld.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelloWorld.Designer.cs">
+      <DependentUpon>HelloWorld.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ITributavel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SeguroDeVida.cs" />
+    <Compile Include="TesteAtualizadorDeContas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TesteAtualizadorDeContas.Designer.cs">
+      <DependentUpon>TesteAtualizadorDeContas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TesteTributos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TesteTributos.Designer.cs">
+      <DependentUpon>TesteTributos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TotalizadorDeContas.cs" />
+    <EmbeddedResource Include="Arrays.resx">
+      <DependentUpon>Arrays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Combo.resx">
+      <DependentUpon>Combo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desafios.resx">
+      <DependentUpon>Desafios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaixaEletronico.resx">
+      <DependentUpon>CaixaEletronico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalculoImposto.resx">
+      <DependentUpon>CalculoImposto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario.resx">
+      <DependentUpon>Formulario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelloWorld.resx">
+      <DependentUpon>HelloWorld.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TesteAtualizadorDeContas.resx">
+      <DependentUpon>TesteAtualizadorDeContas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TesteTributos.resx">
+      <DependentUpon>TesteTributos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
